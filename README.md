@@ -27,3 +27,7 @@ $ hexo server
 $ hexo generate
 ```
 More INFO : [Writing](https://hexo.io/docs/writing.html)
+
+### 學習資源
+#### 自訂主題
+[如何更換 Hexo 主題 & 自訂樣式](https://hackmd.io/@Heidi-Liu/hexo-theme)
