@@ -6,7 +6,7 @@
 ### 本地作業
 
 #### 更新
-```
+```bash
 hexo clean
 hexo generate
 hexo deploy
